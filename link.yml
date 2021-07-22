@@ -1,8 +1,12 @@
 class:
-  class_name: 示例站点
+  class_name: 程序员的幸福生活
   class_desc: 感谢以下网友的支持
   link_list:
     - name: Lete乐特
       link: https://www.lete114.top
       avatar: https://www.lete114.top/img/avatar.png
       descr: 人生只有一次，大胆的生活！！
+    - name: 程序员的幸福生活
+      link: https://apeskill.com
+      avatar: https://apeskill.com/img/avatar.png
+      descr: 加油，奥利给！
